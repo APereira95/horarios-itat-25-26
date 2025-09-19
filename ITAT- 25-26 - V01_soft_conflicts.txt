@@ -1,0 +1,10 @@
+﻿Mostrar conflictos leves de ITAT- 25-26 - V01.fet
+Generado con FET 6.1.5 el 18/9/25 16:06
+
+Número de restricciones leves incumplidas: 0
+Total de conflictos leves: 0
+
+Lista de conflictos leves en orden decreciente:
+
+
+Fin de archivo.

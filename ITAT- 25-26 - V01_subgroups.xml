@@ -1,0 +1,1851 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Students_Timetable>
+  <Subgroup name="1I Subgrupo automático">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Antonio Acosta"></Teacher><Subject name="PSR"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Gonzalo Rangel"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Gonzalo Rangel"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Juan Acuña"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Juan Acuña"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Antonio Acosta"></Teacher><Subject name="TI"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="José M. Rodríguez"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="José M. Rodríguez"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Antonio Acosta"></Teacher><Subject name="PSR"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Antonio Acosta"></Teacher><Subject name="PSR"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Gonzalo Rangel"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="José M. Rodríguez"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Juan Acuña"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     <Teacher name="Gonzalo Rangel"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="José M. Rodríguez"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Antonio Acosta"></Teacher><Subject name="PSR"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Antonio Acosta"></Teacher><Subject name="TI"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="SOCIOLABORAL"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Juan Acuña"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Antonio Acosta"></Teacher><Subject name="TI"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Antonio Acosta"></Teacher><Subject name="TI"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Jesús Pérez Lavaoud"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Jesús Pérez Lavaoud"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1C Subgrupo automático">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Jhonny Oropeza"></Teacher><Subject name="FTC"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Jhonny Oropeza"></Teacher><Subject name="FTC"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="José M. Rodríguez"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Jhonny Oropeza"></Teacher><Subject name="FTC"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Jhonny Oropeza"></Teacher><Subject name="FTC"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="SOCIOLABORAL"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Juan Acuña"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     <Teacher name="Juan Acuña"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Juan Acuña"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="TDS"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Gonzalo Rangel"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Gonzalo Rangel"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="José M. Rodríguez"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="TDS"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="TDS"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Juan Acuña"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Gonzalo Rangel"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="TDS"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Jesús Pérez Lavaoud"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Jesús Pérez Lavaoud"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="José M. Rodríguez"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="José M. Rodríguez"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Gonzalo Rangel"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1F Subgrupo automático">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="José M. Rodríguez"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Juan Acuña"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Juan Acuña"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Alejandro Perdomo"></Teacher><Subject name="GMED"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Alejandro Perdomo"></Teacher><Subject name="GMED"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Juan Acuña"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Alejandro Perdomo"></Teacher><Subject name="TAED"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Alejandro Perdomo"></Teacher><Subject name="TAED"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Alejandro Perdomo"></Teacher><Subject name="GMED"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Alejandro Perdomo"></Teacher><Subject name="GMED"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="José M. Rodríguez"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="José M. Rodríguez"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Gonzalo Rangel"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     <Teacher name="Jesús Pérez Lavaoud"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Jesús Pérez Lavaoud"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Juan Acuña"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Gonzalo Rangel"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Gonzalo Rangel"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Gonzalo Rangel"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="José M. Rodríguez"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="SOCIOLABORAL"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Alejandro Perdomo"></Teacher><Subject name="AM"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Alejandro Perdomo"></Teacher><Subject name="AM"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="2I Subgrupo automático">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="TI"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="TI"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Antonio Acosta"></Teacher><Subject name="PSR"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Antonio Acosta"></Teacher><Subject name="PSR"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Antonio Acosta"></Teacher><Subject name="PSR"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="José M. Rodríguez"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="SOCIOLABORAL"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="José M. Rodríguez"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="José M. Rodríguez"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="TI"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     <Teacher name="Juan Acuña"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Juan Acuña"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Gonzalo Rangel"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Gonzalo Rangel"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="José M. Rodríguez"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Jesús Aguilera"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Jesús Aguilera"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="TI"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Gonzalo Rangel"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Gonzalo Rangel"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Antonio Acosta"></Teacher><Subject name="PSR"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="2C Subgrupo automático">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Jhonny Oropeza"></Teacher><Subject name="FTC"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Jhonny Oropeza"></Teacher><Subject name="FTC"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="SOCIOLABORAL"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="José M. Rodríguez"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="José M. Rodríguez"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="TDS"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Gonzalo Rangel"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Gonzalo Rangel"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Jhonny Oropeza"></Teacher><Subject name="FTC"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Jhonny Oropeza"></Teacher><Subject name="FTC"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="José M. Rodríguez"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     <Teacher name="Gonzalo Rangel"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Gonzalo Rangel"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="TDS"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Juan Acuña"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Juan Acuña"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="TDS"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="TDS"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Jesús Aguilera"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Jesús Aguilera"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="José M. Rodríguez"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="2F Subgrupo automático">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="José M. Rodríguez"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="José M. Rodríguez"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Gonzalo Rangel"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Gonzalo Rangel"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Juan Acuña"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="José M. Rodríguez"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Jesús Aguilera"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Jesús Aguilera"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Juan Acuña"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     <Teacher name="Alejandro Perdomo"></Teacher><Subject name="GMED"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Alejandro Perdomo"></Teacher><Subject name="GMED"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Juan Acuña"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Juan Acuña"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Alejandro Perdomo"></Teacher><Subject name="TAED"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Alejandro Perdomo"></Teacher><Subject name="TAED"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     <Teacher name="Alejandro Perdomo"></Teacher><Subject name="AM"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Alejandro Perdomo"></Teacher><Subject name="AM"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="SOCIOLABORAL"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Alejandro Perdomo"></Teacher><Subject name="GMED"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Alejandro Perdomo"></Teacher><Subject name="GMED"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Gonzalo Rangel"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Gonzalo Rangel"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="José M. Rodríguez"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="3I Subgrupo automático">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Antonio Acosta"></Teacher><Subject name="PSR"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Antonio Acosta"></Teacher><Subject name="PSR"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="SOCIOLABORAL"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Armando Castro"></Teacher><Subject name="QUI"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Armando Castro"></Teacher><Subject name="QUI"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Armando Castro"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Armando Castro"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     <Teacher name="Sebastian La Cruz"></Teacher><Subject name="ET"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Sebastian La Cruz"></Teacher><Subject name="ET"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Armando Castro"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Antonio Acosta"></Teacher><Subject name="TI"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Antonio Acosta"></Teacher><Subject name="TI"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Armando Castro"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Enrique Calabuig"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Enrique Calabuig"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="3C Subgrupo automático">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Armando Castro"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Armando Castro"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Jhonny Oropeza"></Teacher><Subject name="FTC"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Jhonny Oropeza"></Teacher><Subject name="FTC"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Jhonny Oropeza"></Teacher><Subject name="CONTABILIDAD COMUNAL"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Jhonny Oropeza"></Teacher><Subject name="CONTABILIDAD COMUNAL"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Jhonny Oropeza"></Teacher><Subject name="ECONOFISICA"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Jhonny Oropeza"></Teacher><Subject name="ECONOFISICA"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Enrique Calabuig"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Enrique Calabuig"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Armando Castro"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Antonio Acosta"></Teacher><Subject name="TDS"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Antonio Acosta"></Teacher><Subject name="TDS"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Armando Castro"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="José Avilez"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Humberto Njaim"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="SOCIOLABORAL"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="4I Subgrupo automático">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Sebastian La Cruz"></Teacher><Subject name="ET"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Sebastian La Cruz"></Teacher><Subject name="ET"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Armando Anzola"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Antonio Acosta"></Teacher><Subject name="PSR"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Antonio Acosta"></Teacher><Subject name="PSR"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Armando Anzola"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Armando Anzola"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Armando Castro"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     <Teacher name="Armando Castro"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Armando Castro"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Armando Castro"></Teacher><Subject name="QUI"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Armando Castro"></Teacher><Subject name="QUI"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Antonio Acosta"></Teacher><Subject name="PSR"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Antonio Acosta"></Teacher><Subject name="PSR"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="SOCIOLABORAL"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     <Teacher name="Armando Castro"></Teacher><Subject name="QUI"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Nelsón Ochoa"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Nelsón Ochoa"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="TI"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="TI"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Armando Castro"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="TI"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="TI"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Armando Castro"></Teacher><Subject name="QUI"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="4C Subgrupo automático">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="COSTOS"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Armando Castro"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Armando Anzola"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="COSTOS"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="COSTOS"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="TC"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="TC"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Armando Castro"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="SPCO"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="SPCO"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="TC"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="TC"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Armando Castro"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Armando Castro"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="AC"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="AC"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Armando Anzola"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Armando Anzola"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="COSTOS"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Nelsón Ochoa"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Nelsón Ochoa"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="SOCIOLABORAL"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="AC"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="AC"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="5I Subgrupo automático">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Anthonny Aponte"></Teacher><Subject name="ET"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Anthonny Aponte"></Teacher><Subject name="ET"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Leonardo Martínez"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Leonardo Martínez"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Armando Castro"></Teacher><Subject name="QUI"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Armando Castro"></Teacher><Subject name="QUI"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="TI"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="TI"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="TI"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Antonio Acosta"></Teacher><Subject name="PSR"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="SOCIOLABORAL"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Antonio Acosta"></Teacher><Subject name="PSR"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Armando Castro"></Teacher><Subject name="QUI"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Armando Anzola"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Armando Castro"></Teacher><Subject name="QUI"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Armando Anzola"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Armando Anzola"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Antonio Acosta"></Teacher><Subject name="PSR"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Antonio Acosta"></Teacher><Subject name="PSR"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="TI"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="5C Subgrupo automático">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="AC"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="AC"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Duglas Arias"></Teacher><Subject name="TC"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Duglas Arias"></Teacher><Subject name="TC"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="COSTOS"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Leonardo Martínez"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Leonardo Martínez"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Duglas Arias"></Teacher><Subject name="TC"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Duglas Arias"></Teacher><Subject name="TC"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="GHC"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="SPCO"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="SPCO"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="AC"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="BIO"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Armando Anzola"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Daniel Guapache"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="COSTOS"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Armando Anzola"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Armando Anzola"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="COSTOS"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="COSTOS"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="José M. Palacios"></Teacher><Subject name="SOCIOLABORAL"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="AC"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Venancio Morales"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="6I Subgrupo automático">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Juan Acuña"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Juan Acuña"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="SO"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="SO"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="SOCIOLABORAL"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Jean Carlos TI"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Jean Carlos TI"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="PRO"></Subject><Room name="LAB INFO"></Room>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="PRO"></Subject><Room name="LAB INFO"></Room>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="SOCIOLABORAL"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="SOCIOLABORAL"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="ED"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="PRO"></Subject><Room name="LAB INFO"></Room>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="PRO"></Subject><Room name="LAB INFO"></Room>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Armando Anzola"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Armando Anzola"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="SO"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="SO"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="HD"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="HD"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Armando Anzola"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="ED"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Sarino Emmi"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Sarino Emmi"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Jean Carlos TI"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Jean Carlos TI"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="ED"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="ED"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="SOCIOLABORAL"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Armando Anzola"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="6C Subgrupo automático">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Duglas Arias"></Teacher><Subject name="BANCA"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Duglas Arias"></Teacher><Subject name="BANCA"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="HD"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Michoals Bolívar"></Teacher><Subject name="HD"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="SOCIOLABORAL"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="AUDI"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Eduardo Barazarte"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Eduardo Barazarte"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="SOCIOLABORAL"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="SOCIOLABORAL"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Sarino Emmi"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Sarino Emmi"></Teacher><Subject name="OC"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Armando Anzola"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     <Teacher name="Duglas Arias"></Teacher><Subject name="AEF"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Duglas Arias"></Teacher><Subject name="AEF"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Armando Anzola"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="AUDI"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     <Teacher name="Eduardo Barazarte"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Eduardo Barazarte"></Teacher><Subject name="PROY"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="AUDI"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Kelvin Escalona"></Teacher><Subject name="AUDI"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Juan Acuña"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Juan Acuña"></Teacher><Subject name="CAST"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="SOCIOLABORAL"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     <Teacher name="Duglas Arias"></Teacher><Subject name="AEF"></Subject>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Teacher name="Duglas Arias"></Teacher><Subject name="AEF"></Subject>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Teacher name="Duglas Arias"></Teacher><Subject name="BANCA"></Subject>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Teacher name="Duglas Arias"></Teacher><Subject name="BANCA"></Subject>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Teacher name="Armando Anzola"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Teacher name="Armando Anzola"></Teacher><Subject name="ING"></Subject>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Teacher name="Euro Martinez"></Teacher><Subject name="MAT"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+</Students_Timetable>

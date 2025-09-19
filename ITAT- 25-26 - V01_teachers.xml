@@ -1,0 +1,4095 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Teachers_Timetable>
+  <Teacher name="Sarino Emmi">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="OC"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="OC"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="OC"></Subject><Students name="6I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="OC"></Subject><Students name="6I"></Students>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Daniel Guapache">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="CAST"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="CAST"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="CAST"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="CAST"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="CAST"></Subject><Students name="4C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="CAST"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="CAST"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="CAST"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="CAST"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="CAST"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="CAST"></Subject><Students name="2I"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="CAST"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="CAST"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="CAST"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="CAST"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="CAST"></Subject><Students name="2I"></Students>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="CAST"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="CAST"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="CAST"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="CAST"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="CAST"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="CAST"></Subject><Students name="5I"></Students>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="CAST"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="CAST"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="CAST"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="CAST"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="CAST"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="CAST"></Subject><Students name="2C"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Michoals Bolívar">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     <Subject name="TI"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="TI"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="HD"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="HD"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="SO"></Subject><Students name="6I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="SO"></Subject><Students name="6I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="TI"></Subject><Students name="5I"></Students>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="PRO"></Subject><Students name="6I"></Students><Room name="LAB INFO"></Room>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="PRO"></Subject><Students name="6I"></Students><Room name="LAB INFO"></Room>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="TI"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="TI"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     <Subject name="ED"></Subject><Students name="6I"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="PRO"></Subject><Students name="6I"></Students><Room name="LAB INFO"></Room>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="PRO"></Subject><Students name="6I"></Students><Room name="LAB INFO"></Room>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="TI"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="SO"></Subject><Students name="6I"></Students>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     <Subject name="SO"></Subject><Students name="6I"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="HD"></Subject><Students name="6I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="HD"></Subject><Students name="6I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="ED"></Subject><Students name="6I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="TI"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="TI"></Subject><Students name="4I"></Students>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     <Subject name="TI"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="ED"></Subject><Students name="6I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="ED"></Subject><Students name="6I"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="TI"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="TI"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="TI"></Subject><Students name="5I"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Gonzalo Rangel">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="MAT"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="MAT"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="MAT"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="MAT"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="MAT"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="MAT"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="MAT"></Subject><Students name="1I"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     <Subject name="MAT"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="MAT"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="MAT"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="MAT"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="MAT"></Subject><Students name="1F"></Students>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     <Subject name="MAT"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="MAT"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="MAT"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="MAT"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="MAT"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="MAT"></Subject><Students name="1F"></Students>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     <Subject name="MAT"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="MAT"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="MAT"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="MAT"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="MAT"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="MAT"></Subject><Students name="1C"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Jhonny Oropeza">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     <Subject name="FTC"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="FTC"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="FTC"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="FTC"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="FTC"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="FTC"></Subject><Students name="3C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     <Subject name="CONTABILIDAD COMUNAL"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="CONTABILIDAD COMUNAL"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="FTC"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="FTC"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="FTC"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="FTC"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="ECONOFISICA"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="ECONOFISICA"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="José M. Rodríguez">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="BIO"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="BIO"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="BIO"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="BIO"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="BIO"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="BIO"></Subject><Students name="2C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="BIO"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="BIO"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="BIO"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="BIO"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="BIO"></Subject><Students name="2C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="BIO"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="BIO"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="BIO"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="BIO"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="BIO"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="BIO"></Subject><Students name="1C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="BIO"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="BIO"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="BIO"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="BIO"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="BIO"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="BIO"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="BIO"></Subject><Students name="2F"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Armando Castro">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     <Subject name="MAT"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="MAT"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="MAT"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="QUI"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="QUI"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     <Subject name="QUI"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="QUI"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="MAT"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="MAT"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="MAT"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="MAT"></Subject><Students name="4I"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     <Subject name="MAT"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="MAT"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="QUI"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="QUI"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="MAT"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="MAT"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="MAT"></Subject><Students name="3C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     <Subject name="QUI"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="QUI"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="MAT"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="MAT"></Subject><Students name="3C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     <Subject name="QUI"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="MAT"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="MAT"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="QUI"></Subject><Students name="4I"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="José M. Palacios">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     <Subject name="BIO"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="BIO"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="SOCIOLABORAL"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="SOCIOLABORAL"></Subject><Students name="3I"></Students>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     <Subject name="BIO"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="BIO"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="BIO"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="BIO"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="SOCIOLABORAL"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="BIO"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="BIO"></Subject><Students name="3C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     <Subject name="SOCIOLABORAL"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="SOCIOLABORAL"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="BIO"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="BIO"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="BIO"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="BIO"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="SOCIOLABORAL"></Subject><Students name="4I"></Students>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     <Subject name="BIO"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="BIO"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="SOCIOLABORAL"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="SOCIOLABORAL"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     <Subject name="BIO"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="BIO"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="SOCIOLABORAL"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="SOCIOLABORAL"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="SOCIOLABORAL"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="SOCIOLABORAL"></Subject><Students name="3C"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Kelvin Escalona">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     <Subject name="AC"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="AC"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="COSTOS"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="COSTOS"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="AUDI"></Subject><Students name="6C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     <Subject name="COSTOS"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="COSTOS"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="TC"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="TC"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="SPCO"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="SPCO"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="AC"></Subject><Students name="5C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     <Subject name="SPCO"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="SPCO"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="TC"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="TC"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="AUDI"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="AC"></Subject><Students name="4C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     <Subject name="AC"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="AUDI"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="AUDI"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="COSTOS"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="COSTOS"></Subject><Students name="4C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     <Subject name="COSTOS"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="COSTOS"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="AC"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="AC"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="AC"></Subject><Students name="4C"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Venancio Morales">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     <Subject name="PROY"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="PROY"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="PROY"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="PROY"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="PROY"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="PROY"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     <Subject name="PROY"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="PROY"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="GHC"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="GHC"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="PROY"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="PROY"></Subject><Students name="4C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     <Subject name="PROY"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="PROY"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="PROY"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="PROY"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="GHC"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="GHC"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="PROY"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="PROY"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="GHC"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="GHC"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     <Subject name="PROY"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="PROY"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="GHC"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="GHC"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="PROY"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="PROY"></Subject><Students name="5C"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Euro Martinez">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="MAT"></Subject><Students name="6I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="MAT"></Subject><Students name="6I"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="SOCIOLABORAL"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="MAT"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="SOCIOLABORAL"></Subject><Students name="6I"></Students>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     <Subject name="MAT"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="TDS"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="SOCIOLABORAL"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="SOCIOLABORAL"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="SOCIOLABORAL"></Subject><Students name="6I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="SOCIOLABORAL"></Subject><Students name="6I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="MAT"></Subject><Students name="6I"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     <Subject name="MAT"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="MAT"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="MAT"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="TDS"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="TDS"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="MAT"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="MAT"></Subject><Students name="6C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     <Subject name="TDS"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="TDS"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="MAT"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="MAT"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="TDS"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="TDS"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="SOCIOLABORAL"></Subject><Students name="6C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     <Subject name="TDS"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="MAT"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="MAT"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="MAT"></Subject><Students name="6I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="SOCIOLABORAL"></Subject><Students name="6I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="MAT"></Subject><Students name="6C"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Humberto Njaim">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     <Subject name="ING"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="ING"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="ING"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="ING"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="ING"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="ING"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="ING"></Subject><Students name="1C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     <Subject name="ING"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="ING"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="ING"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="ING"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="ING"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="ING"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="ING"></Subject><Students name="3I"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     <Subject name="ING"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="ING"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="ING"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="ING"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="ING"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="ING"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="ING"></Subject><Students name="1I"></Students>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="ING"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="ING"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="ING"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="ING"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="ING"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="ING"></Subject><Students name="2C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     <Subject name="ING"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="ING"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="ING"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="ING"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="ING"></Subject><Students name="1F"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Enrique Calabuig">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="OC"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="OC"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="OC"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="OC"></Subject><Students name="3I"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Duglas Arias">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     <Subject name="BANCA"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="BANCA"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="TC"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="TC"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     <Subject name="TC"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="TC"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     <Subject name="AEF"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="AEF"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     <Subject name="AEF"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="AEF"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="BANCA"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="BANCA"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Blas Rivero">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Rafael Martí">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Leonardo Martínez">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="OC"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="OC"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="OC"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="OC"></Subject><Students name="5C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="José Avilez">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="GHC"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="GHC"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="GHC"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="GHC"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="GHC"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="GHC"></Subject><Students name="2I"></Students>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     <Subject name="GHC"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="GHC"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="GHC"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="GHC"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="GHC"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="GHC"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="GHC"></Subject><Students name="1C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     <Subject name="GHC"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="GHC"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="GHC"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="GHC"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="GHC"></Subject><Students name="3I"></Students>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     <Subject name="GHC"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="GHC"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="GHC"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="GHC"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="GHC"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="GHC"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="GHC"></Subject><Students name="1C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     <Subject name="GHC"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="GHC"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="GHC"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="GHC"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="GHC"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="GHC"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="GHC"></Subject><Students name="1I"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Antonio Acosta">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="PSR"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="PSR"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="PSR"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="PSR"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="PSR"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="TI"></Subject><Students name="1I"></Students>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="PSR"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="PSR"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="PSR"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="PSR"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="PSR"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="PSR"></Subject><Students name="5I"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="PSR"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="PSR"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="PSR"></Subject><Students name="5I"></Students>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="TDS"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="TDS"></Subject><Students name="3C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="PSR"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="TI"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="TI"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="TI"></Subject><Students name="3I"></Students>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="TI"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="TI"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="PSR"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="PSR"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="PSR"></Subject><Students name="2I"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Jesús Pérez Lavaoud">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     <Subject name="OC"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="OC"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="OC"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="OC"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="OC"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="OC"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Alejandro Perdomo">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="GMED"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="GMED"></Subject><Students name="1F"></Students>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="TAED"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="TAED"></Subject><Students name="1F"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     <Subject name="GMED"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="GMED"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="GMED"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="GMED"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="TAED"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="TAED"></Subject><Students name="2F"></Students>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     <Subject name="AM"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="AM"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="GMED"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="GMED"></Subject><Students name="2F"></Students>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="AM"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="AM"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Ernesto Vasquez">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Anthonny Aponte">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     <Subject name="ET"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="ET"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Sebastian La Cruz">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     <Subject name="ET"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="ET"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     <Subject name="ET"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="ET"></Subject><Students name="3I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Luis León">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Jean Carlos TI">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     <Subject name="PROY"></Subject><Students name="6I"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="PROY"></Subject><Students name="6I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     <Subject name="PROY"></Subject><Students name="6I"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="PROY"></Subject><Students name="6I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Eduardo Barazarte">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     <Subject name="PROY"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="PROY"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     <Subject name="PROY"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="PROY"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Juan Acuña">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     <Subject name="CAST"></Subject><Students name="6I"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="CAST"></Subject><Students name="6I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="CAST"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="CAST"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="CAST"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="CAST"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="CAST"></Subject><Students name="2F"></Students>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="CAST"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="CAST"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="CAST"></Subject><Students name="2F"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     <Subject name="CAST"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="CAST"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="CAST"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="CAST"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="CAST"></Subject><Students name="1I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="PROY"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="PROY"></Subject><Students name="2C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     <Subject name="PROY"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="PROY"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="CAST"></Subject><Students name="1F"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="CAST"></Subject><Students name="1C"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="CAST"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="CAST"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="CAST"></Subject><Students name="1I"></Students>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Armando Anzola">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="ING"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="ING"></Subject><Students name="4I"></Students>
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="ING"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="ING"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="ING"></Subject><Students name="6C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="ING"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="ING"></Subject><Students name="6I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="ING"></Subject><Students name="6I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="ING"></Subject><Students name="5C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="ING"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="ING"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="ING"></Subject><Students name="6I"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="ING"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="ING"></Subject><Students name="5C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="ING"></Subject><Students name="5C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="ING"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="ING"></Subject><Students name="5I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     <Subject name="ING"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="ING"></Subject><Students name="6C"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="ING"></Subject><Students name="6I"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Jesús Aguilera">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="OC"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="OC"></Subject><Students name="2F"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     <Subject name="OC"></Subject><Students name="2I"></Students>
+    </Hour>
+    <Hour name="6:00-6:40">
+     <Subject name="OC"></Subject><Students name="2I"></Students>
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     <Subject name="OC"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="OC"></Subject><Students name="2C"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Nelsón Ochoa">
+   <Day name="Lunes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Martes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Miércoles">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Jueves">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     <Subject name="OC"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="OC"></Subject><Students name="4I"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+   <Day name="Viernes">
+    <Hour name="2:00-2:40">
+     
+    </Hour>
+    <Hour name="2:40-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:55">
+     <Subject name="OC"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="3:55-4:30">
+     <Subject name="OC"></Subject><Students name="4C"></Students>
+    </Hour>
+    <Hour name="4:30-4:45">
+     
+    </Hour>
+    <Hour name="4:45-5:25">
+     
+    </Hour>
+    <Hour name="5:25-6:00">
+     
+    </Hour>
+    <Hour name="6:00-6:40">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+</Teachers_Timetable>
